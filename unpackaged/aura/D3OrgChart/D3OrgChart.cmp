@@ -1,0 +1,7 @@
+<aura:component access="GLOBAL" implements="flexipage:availableForAllPageTypes,force:hasRecordId,forceCommunity:availableForAllPageTypes">
+	
+    <!-- Import D3 Library from Static Resourse -->
+    <!-- This Lightning component is using the latest D3 V5 -->
+    <ltng:require scripts="{!join(',', $Resource.D3Library + '/d3.min.js')}" afterScriptsLoaded="{!c.initOrgChart}"/>
+    
+</aura:component>
