@@ -3,7 +3,7 @@ Simple D3 Org Chart in Salesforce Lightning Framework
 
 # Deploy Directly to Salesforce
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=Jagannath Valaiyapathy&repo=https://github.com/Jaganpro/D3-SampleCharts">
+<a href="https://githubsfdeploy.herokuapp.com?owner=jaganpro&repo=D3-SampleCharts/D3OrgChart">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
